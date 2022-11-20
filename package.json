@@ -1,0 +1,30 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "some demo code of node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bambloo/node-tutorial.git"
+  },
+  "keywords": [
+    "demo",
+    "tutorial",
+    "node"
+  ],
+  "author": "bambloo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bambloo/node-tutorial/issues"
+  },
+  "homepage": "https://github.com/bambloo/node-tutorial#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
